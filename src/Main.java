@@ -9,5 +9,6 @@ public class Main {
         myMap.put("pranav",6);
         myMap.put("kundan",7);
         System.out.println(myMap);
+        System.out.println("hello");
     }
 }
